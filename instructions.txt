@@ -1,0 +1,8 @@
+amazon
+microsoft
+google
+
+virtual machine (oracle)
+cron job that runs every time period
+
+
